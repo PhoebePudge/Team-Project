@@ -1,0 +1,4 @@
+Monk,90,8,10,False
+Knight,100,10,7,False
+Knight,100,10,7,False
+Knight,100,10,7,False
