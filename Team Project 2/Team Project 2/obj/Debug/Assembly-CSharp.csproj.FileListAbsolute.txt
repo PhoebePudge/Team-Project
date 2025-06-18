@@ -1,2 +1,0 @@
-C:\Users\jerem\Documents\Phoebes Work\Team Project 2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\jerem\Documents\Phoebes Work\Team Project 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
